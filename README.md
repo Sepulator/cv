@@ -1,6 +1,6 @@
 # Yuri Skrypal
 
-_Junior Game/Level Designer, Kyiv_ <br>
+_Game/Level Designer, Kyiv_ <br>
 
 [Email](mailto:yjura@protonmail.com) / [LinkedIn](https://www.linkedin.com/in/yuriy-skrypal-580a84ab/) / [GitHub](https://github.com/Sepulator/) / [Discord](https://discord.com/users/Sepul#8288)
 
@@ -31,11 +31,19 @@ Customer service support for Cossack's and S.T.A.L.K.E.R. series games.
 
 ## Languages
 
-**English**: Intermediate <br>
+**English**: B2 Upper Intermediate <br>
 **Russian**: Native <br>
 **Ukrainian**: Native <br>
 
 ## Education
+**NodeJS.** The Rolling Scopes developer community<br>
+[RS School](https://app.rs.school/certificate/eqbpm115) - online _(Jun 2023 - Sep 2023)_ <br>
+
+**React.** The Rolling Scopes developer community<br>
+[RS School](https://app.rs.school/certificate/22fp108v) - online _(Mar 2023 - Jun 2023)_ <br>
+
+**JavaScript/Front-end.** The Rolling Scopes developer community<br>
+[RS School](https://app.rs.school/certificate/054vr8aa) - online _(Sep 2022 - Mar 2023)_ <br>
 
 **JavaScript/Front-end. Stage 0.** The Rolling Scopes developer community<br>
 [RS School](https://app.rs.school/certificate/988iuew1/) - online _(Jun 2022 - Aug 2022)_ <br>
