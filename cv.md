@@ -2,25 +2,25 @@
 
 _Technical Support Engineer, Kyiv_ <br>
 
-[Email](mailto:yjura@protonmail.com) / [LinkedIn](https://www.linkedin.com/in/yuriy-skrypal-580a84ab/) / [GitHub](https://github.com/Sepulator/) / [Discord](https://discord.com/users/Sepul#8288)
+[Email](mailto:yjura@protonmail.com) / [LinkedIn](https://www.linkedin.com/in/yuriy-skrypal-580a84ab/) / [GitHub](https://github.com/Sepulator/) / [Telegram](https://t.me/sepulator)
+
+[Download as PDF](https://sepulator.github.io/cv/yuri.scrypal-tech.support.pdf)
 
 ## Work Experience
 
-**Game/Level Designer** @ [Vostok Games](https://vostokgames.com/home/en) _(2019 - 2022)_ <br>
+**Game/Level Designer** @ [Vostok Games](https://vgentertainment.com/) _(2019 - 2022)_ <br>
 Worked on unannounced projects.
   - Created gray box, reviewed and tested levels from other team members,
   - Writing mission documentation, prototyping concepts,
   - Scripting mission.
   - **_Technologies used:_** Unreal Editor, Blueprints, Jira, Git.
-<br><br>
 
-**Technical Support Engineer** @ [Vostok Games](https://vostokgames.com/home/en) _(2014 - 2019)_ <br>
+**Technical Support Engineer** @ [Vostok Games](https://vgentertainment.com/) _(2014 - 2019)_ <br>
 Worked on Survarium (post-apocalyptic online FPS).
   - Created and managed [Frequently Asked Questions (FAQ) resource](https://web.archive.org/web/20220526211538/https://support.survarium.com/index.php?/en) for Survarium Universe,
   - Troubleshooting customer technical and software issues over help desk [Kyako](https://kayako.com/),
   - Wrote internal documentation for team members to resolve customer's appeals.
   - **_Technologies used:_** Kayko Help Desk, Jira.
-<br><br>
 
 **Customer Support, QA** @ [GSC Game World](https://www.gsc-game.com/) _(2005 - 2013)_ <br>
 Customer service support for Cossack's and S.T.A.L.K.E.R. series games.
@@ -35,8 +35,8 @@ Customer service support for Cossack's and S.T.A.L.K.E.R. series games.
 **Russian**: Native <br>
 **Ukrainian**: Native <br>
 
-## Programming Langages & Tech
-  - JavaScript, HTMl, CSS
+## Programming Languages & Tech
+  - JavaScript, HTML, CSS
   - Git, GitHub, Docker
   - React, NodeJS, Angular
 
@@ -56,5 +56,5 @@ Customer service support for Cossack's and S.T.A.L.K.E.R. series games.
 **Bachelor in System Engineering** Faculty of Informatics and Computer Engineering<br>
 [NTUU KPI](https://kpi.ua/en/fiot) - Kyiv, Ukraine _(2011 - 2015)_
 
-**CCNA Routing and Switching** Cisco Network academy 2011-2012)<br>
+**CCNA Routing and Switching** Cisco Network academy 2011-2012<br>
 [CISCO NTUU KPI](https://kpi.ua/cisco-photo) - Kyiv, Ukraine _(2011 - 2012)_
