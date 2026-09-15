@@ -29,7 +29,7 @@ _Technical Support Engineer & Full-Stack Developer, Kyiv_
 - Architected and managed a [comprehensive FAQ resource](https://web.archive.org/web/20220526211538/https://support.survarium.com/index.php?/en) to improve user self-service.
 - Authored internal technical documentation, improving team troubleshooting efficiency.
 
-**Customer Support, QA** @ [GSC Game World](https://www.gsc-game.com/) _(2005 - 2013)_ <br>
+**Customer Support, QA** @ [GSC Game World](https://www.gsc-game.com/) _(2005 - 2013)_
 - Provided multi-channel technical support for S.T.A.L.K.E.R. and Cossacks series.
 - Executed rigorous QA testing and bug reproduction, collaborating directly with the development team via SVN.
 - Gained hands-on experience in level design and scripting using Lua and the X-Ray Level Editor.
