@@ -8,6 +8,21 @@ _Technical Support Engineer, Kyiv_ <br>
 
 ## Work Experience
 
+**Team projects** _(2023 - 2026)_
+
+- [Swagger/OpenAPI UI Application](https://github.com/EkaterynaVolkova/swagger-editor-app)
+A modern, full-stack React application designed to edit, view, and test RESTful APIs using the OpenAPI/Swagger specification, equipped with powerful REST client capabilities.
+
+- [REST Client](https://github.com/Sepulator/rest-client-app)
+Lightweight alternative to Postman combines essential features in one app. Supports authorization and authentication capabilities.
+
+- [eCommerce Application](https://github.com/ReginaMos/e-commerce)
+Platform replicates real-world shopping experiences in a digital environment.
+
+- [GraphiQL-App](https://graphiql-app-just-do-it.netlify.app/)
+Playground/IDE for GraphQL requests. Also includes authorization/authentication capabilities, to give access to the tool to only to authorized users.
+
+
 **Game/Level Designer** @ [Vostok Games](https://vgentertainment.com/) _(2019 - 2022)_ <br>
 Worked on unannounced projects.
   - Created gray box, reviewed and tested levels from other team members,
@@ -36,9 +51,9 @@ Customer service support for Cossack's and S.T.A.L.K.E.R. series games.
 **Ukrainian**: Native <br>
 
 ## Programming Languages & Tech
-  - JavaScript, HTML, CSS
+  - JavaScript, TypeScript, HTML, CSS
   - Git, GitHub, Docker
-  - React, NodeJS, Angular
+  - React, Next.js, NodeJS, Nest, Angular
 
 ## Education
 **NodeJS.** The Rolling Scopes developer community<br>
